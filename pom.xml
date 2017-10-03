@@ -6,6 +6,13 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.apache.maven.shared/file-management -->
+		<dependency>
+			<groupId>org.apache.maven.shared</groupId>
+			<artifactId>file-management</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
 		<dependency>
 			<groupId>info.cukes</groupId>
